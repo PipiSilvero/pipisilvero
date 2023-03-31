@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pipisilvero&label=Profile%20views&color=0e75b6&style=flat" alt="pipisilvero" /> </p>
 
+- 🔭 I’m currently working on **Aplicaciones de consola en C#**
+
 - 🌱 I’m currently learning **Programming on C#**
 
 - 📫 How to reach me **pedrottesilvero@gmail.com**
